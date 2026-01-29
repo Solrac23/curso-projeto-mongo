@@ -5,6 +5,7 @@ import java.io.Serializable;
 import com.example.workshopmongo.domain.User;
 
 public class UserDTO implements Serializable{
+  
   private String id;
   private String name;
   private String email;
